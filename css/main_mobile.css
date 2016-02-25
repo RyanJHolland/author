@@ -1,0 +1,26 @@
+#topLeftNameImg {
+	margin: 0 auto;
+	display: block;
+}
+
+#mainDiv {
+	padding: 0px 10px 0px 10px;
+}
+
+#headerDiv {
+	border-bottom: 0;
+	margin-bottom: 5px;
+}
+
+#box2 {
+	border-right: 0px;
+}
+
+#box3 {
+	border-top: 20px solid white;
+	border-left: 0px;
+}
+
+#box4 {
+	border-top: 20px solid white;
+}
